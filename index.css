@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1B244A;
+    border: 5px solid #EEEEEE;
+    border-radius: 10px;
+    padding-bottom: 60px;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EEEEEE;
+    Font-size: 20px;
+    font-weight: 700;  
+}
+.home-btns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+        
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: "Cursed Timer Ulil";
+    color: #F94F6D;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    
+}
+#home-score {
+    background-color: #080001;
+    width: 155px;
+    height: 120px;
+    margin: 10px 20px;
+}
+#guest-score {
+    background-color: #080001;
+    width: 155px;
+    height: 120px;
+    margin: 10px 20px;
+}
+
+.guest-btns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;  
+}
+#home-score-btn-1 {
+    color: #9AABD8;
+    font-family: "Cursed Timer Ulil";
+    height: 45px;
+    width: 45px;
+    background-color:#1B244A; 
+    border: 1px solid #9AABD8;
+    border-radius: 5px;  
+} 
+#home-score-btn-2 {
+    color: #9AABD8;
+    font-family: "Cursed Timer Ulil";
+    height: 45px;
+    width: 45px;
+    background-color:#1B244A; 
+    border: 1px solid #9AABD8;
+    border-radius: 5px;  
+}
+#home-score-btn-3 {
+    color: #9AABD8;
+    font-family:"Cursed Timer Ulil";
+    height: 45px;
+    width: 45px;
+    
+    background-color:#1B244A; 
+    border: 1px solid #9AABD8;
+    border-radius: 5px;  
+}
+#guest-score-btn-1 {
+    color: #9AABD8;
+    font-family: "Cursed Timer Ulil";
+    height: 45px;
+    width: 45px;
+    background-color:#1B244A; 
+    border: 1px solid #9AABD8;
+    border-radius: 5px;  
+} 
+#guest-score-btn-2 {
+    color: #9AABD8;
+    font-family: "Cursed Timer Ulil";
+    height: 45px;
+    width: 45px;
+    background-color:#1B244A; 
+    border: 1px solid #9AABD8;
+    border-radius: 5px;  
+} 
+#guest-score-btn-3 {
+    color: #9AABD8;
+    font-family: "Cursed Timer Ulil";
+    height: 45px;
+    width: 45px;
+    background-color:#1B244A; 
+    border: 1px solid #9AABD8;
+    border-radius: 5px;  
+} 
